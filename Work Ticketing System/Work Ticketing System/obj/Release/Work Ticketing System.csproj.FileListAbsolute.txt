@@ -1,0 +1,50 @@
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Work Ticketing System.exe.config
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Work Ticketing System.exe
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Work Ticketing System.pdb
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.calculator.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.calender.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.startuporm.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.HardwIssues.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Homepage.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Issue_Description.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.NetwIssues.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Dashboard.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Tickets.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.UsersList.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Properties.Resources.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Reports.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.SeniorStafLogin.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.SenstafLogin.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.SoftwIsssues.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.Stafflogin.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.StaffSignup.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.UserInputHD.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.UserInputSoft.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work_Ticketing_System.UsserInputForm.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.csproj.GenerateResource.cache
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.csproj.CoreCompileInputs.cache
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.exe
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.pdb
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\BouncyCastle.Crypto.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Google.Protobuf.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Compression.LZ4.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Compression.LZ4.Streams.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Hash.xxHash.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\MySql.Data.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Renci.SshNet.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Buffers.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Memory.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Ubiety.Dns.Core.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Zstandard.Net.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Google.Protobuf.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Compression.LZ4.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Compression.LZ4.Streams.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\K4os.Hash.xxHash.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\MySql.Data.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\Renci.SshNet.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Buffers.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Memory.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.csproj.CopyComplete
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Release\Work Ticketing System.csprojAssemblyReference.cache

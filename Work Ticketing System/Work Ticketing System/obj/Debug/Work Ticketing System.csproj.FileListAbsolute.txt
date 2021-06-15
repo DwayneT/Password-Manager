@@ -1,0 +1,108 @@
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe.config
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.pdb
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csprojResolveAssemblyReference.cache
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.startuporm.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Properties.Resources.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.GenerateResource.Cache
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.exe
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.pdb
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Homepage.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UsserInputForm.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.HardwIssues.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.NetwIssues.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.SoftwIsssues.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Issue_Description.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UserInputHD.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calculator.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calender.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Stafflogin.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.StaffSignup.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Reports.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.SeniorStafLogin.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.SenstafLogin.resources
+D:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UserInputSoft.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe.config
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.pdb
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calculator.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calender.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.startuporm.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.HardwIssues.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Homepage.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Dashboard.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Tickets.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UsersList.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Properties.Resources.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.SenstafLogin.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Stafflogin.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.StaffSignup.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UserInputHD.resources
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.GenerateResource.cache
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.CoreCompileInputs.cache
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.exe
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.pdb
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\BouncyCastle.Crypto.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Google.Protobuf.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Hash.xxHash.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\MySql.Data.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Renci.SshNet.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Buffers.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Memory.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Ubiety.Dns.Core.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Zstandard.Net.dll
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Google.Protobuf.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Hash.xxHash.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\MySql.Data.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Renci.SshNet.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Buffers.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Memory.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.CopyComplete
+B:\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csprojAssemblyReference.cache
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\BouncyCastle.Crypto.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Google.Protobuf.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe.config
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.exe
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Work Ticketing System.pdb
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Google.Protobuf.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Hash.xxHash.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\MySql.Data.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Renci.SshNet.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Buffers.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Memory.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Ubiety.Dns.Core.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Zstandard.Net.dll
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\K4os.Hash.xxHash.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\MySql.Data.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\Renci.SshNet.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Buffers.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Memory.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calculator.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.calender.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.startuporm.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Homepage.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Dashboard.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UsersList.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Properties.Resources.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.SenstafLogin.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.Stafflogin.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.StaffSignup.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work_Ticketing_System.UserInputHD.resources
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.GenerateResource.cache
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.CoreCompileInputs.cache
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csproj.CopyComplete
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.exe
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.pdb
+B:\JP\Work Ticketing System\Work Ticketing System\Work Ticketing System\obj\Debug\Work Ticketing System.csprojAssemblyReference.cache
